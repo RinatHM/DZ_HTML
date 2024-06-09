@@ -1,0 +1,37 @@
+.text {
+    font-family: sans-serif;
+}
+class a {    text-decoration: none;}
+.heading {    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987;
+    border: 1px solid black;}
+.nav_link {    color: aqua;
+    font-size: 30px;
+    line-height: 20px;}
+.headline {    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;}
+.title {    font-size: 28px;
+    color: #222;
+    line-height: 36px;
+    font-weight: bold;}
+.pic{    border-radius: 10px;    }
+.button {    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+.btn {width: 150px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;}
